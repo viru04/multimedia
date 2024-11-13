@@ -1,0 +1,11 @@
+Name,Age,Income,Gender,Purchased
+Alice,25,50000,Female,Yes
+Bob,30,60000,Male,No
+Charlie,35,50000,Male,Yes
+David,40,70000,Male,No
+Eve,22,48000,Female,Yes
+Frank,28,62000,Male,No
+Grace,33,51000,Female,Yes
+Hank,45,80000,Male,No
+Ivy,38,72000,Female,Yes
+John,50,90000,Male,No

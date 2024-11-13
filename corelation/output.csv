@@ -1,0 +1,11 @@
+Column 1,Column 2,Correlation Coefficient,Correlation Type
+productA,productB,-0.25,Negative correlation
+productA,productC,-0.408248,Negative correlation
+productA,productD,-0.166667,Negative correlation
+productA,productE,0.583333,Positive correlation
+productB,productC,0,Negative correlation
+productB,productD,-0.166667,Negative correlation
+productB,productE,-0.25,Negative correlation
+productC,productD,-0.408248,Negative correlation
+productC,productE,0,Negative correlation
+productD,productE,-0.166667,Negative correlation

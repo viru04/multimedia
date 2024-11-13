@@ -1,0 +1,11 @@
+Temp,Humidity,clouds,rain
+High,high,yes,TRUE
+High,high,no,FALSE
+low,high,no,FALSE
+medium,low,no,FALSE
+high,low,yes,TRUE
+medium,low,yes,TRUE
+low,low,yes,FALSE
+low,low,no,FALSE
+low,high,yes,TRUE
+medium,low,no,FALSE

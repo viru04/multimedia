@@ -1,0 +1,4 @@
+Class,Prior Probability,Feature Probabilities,Total Probability
+No,0.500000,0.022867,0.400000,0.200000=0.000915
+Yes,0.500000,0.026653,0.400000,0.400000=0.002132
+Predicted Class: Yes

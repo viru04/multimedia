@@ -1,0 +1,10 @@
+{ bread } ,-> , {butter } , 50
+{ butter } ,-> , {bread } , 50
+{ bread } ,-> , {milk } , 50
+{ milk } ,-> , {bread } , 50
+{ butter } ,-> , {eggs } , 50
+{ eggs } ,-> , {butter } , 60
+{ butter } ,-> , {milk } , 66.6667
+{ milk } ,-> , {butter } , 66.6667
+{ eggs } ,-> , {milk } , 60
+{ milk } ,-> , {eggs } , 50

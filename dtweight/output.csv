@@ -1,0 +1,5 @@
+Column\row , ,Programmer ,,  ,Non programmer ,,  ,Total,,, 
+ ,Count, t - weight, d - weight, Count, t - weight, d - weight, Count, t - weight, d - weight 
+non-prog,20,20%,10%,80,80%,40%,100,100%,25%
+programmer,180,60%,90%,120,40%,60%,300,100%,75%
+Total ,200,50%,100%,200,50%,100%,400,100%,100%

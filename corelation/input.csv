@@ -1,0 +1,11 @@
+tid,productA,productB,productC,productD,productE
+1,Y,N,Y,N,Y
+2,N,Y,Y,N,N
+3,Y,Y,N,Y,Y
+4,Y,N,N,N,Y
+5,N,Y,N,Y,N
+6,Y,Y,Y,N,Y
+7,N,N,Y,Y,N
+8,Y,N,N,Y,Y
+9,Y,Y,N,N,N
+10,N,Y,Y,N,Y

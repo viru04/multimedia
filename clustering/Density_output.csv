@@ -1,0 +1,9 @@
+Value,ClusterID,Type
+1,1,Core
+3,1,Core
+19,2,Core
+23,2,Core
+33,0,Noise
+9,1,Core
+8,1,Core
+Total Clusters: 2

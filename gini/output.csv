@@ -1,0 +1,16 @@
+Initial Entropy: 0.940286
+Numerical Feature Selected
+Split Value: 64.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 65.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 68.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 69.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 70.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 71.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 72.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 75.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 80.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 81.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 83.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Split Value: 85.000000, Weighted Entropy: 0.000000, Gini Index: 0.000000, Information Gain: 0.940286
+Optimal Split Value: 64.000000 with Information Gain: 0.940286
+Final Gini Index after Optimal Split: 0.000000

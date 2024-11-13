@@ -1,0 +1,11 @@
+Age,Gender,Vehicle_Type,Purchased
+25,Male,Sedan,No
+35,Female,SUV,Yes
+45,Male,Truck,Yes
+30,Female,Sedan,No
+28,Male,SUV,Yes
+40,Female,Sedan,Yes
+50,Male,SUV,No
+22,Male,Truck,Yes
+33,Male,Sedan,No
+38,Female,Truck,No
